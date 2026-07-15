@@ -13,7 +13,7 @@
     "build": "tsup src/index.ts --format esm --dts"
   },
   "dependencies": {
-    "@ajentik/doo-iconik": "file:../core"
+    "@ajentik/doo-iconik": "^1.0.0"
   },
   "devDependencies": {
     "@types/node": "^22.0.0",

@@ -26,7 +26,7 @@
     "build": "echo 'Vue package ships source — no build needed'"
   },
   "dependencies": {
-    "@ajentik/doo-iconik": "file:../core"
+    "@ajentik/doo-iconik": "^1.0.0"
   },
   "peerDependencies": {
     "vue": "^3.3.0"
