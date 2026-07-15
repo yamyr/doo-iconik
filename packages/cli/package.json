@@ -16,7 +16,7 @@
     "@ajentik/doo-iconik": "^1.0.0"
   },
   "devDependencies": {
-    "@types/node": "^22.0.0",
+    "@types/node": "^26.1.1",
     "tsup": "^8.0.0",
     "typescript": "^5.0.0"
   },
