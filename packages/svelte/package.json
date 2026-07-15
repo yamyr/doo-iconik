@@ -30,7 +30,7 @@
     "build": "svelte-package -i src -o dist"
   },
   "dependencies": {
-    "@ajentik/doo-iconik": "file:../core"
+    "@ajentik/doo-iconik": "^1.0.0"
   },
   "peerDependencies": {
     "svelte": "^5.0.0"
