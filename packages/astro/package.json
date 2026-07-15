@@ -4,9 +4,9 @@
   "description": "Astro component for doo-iconik hand-drawn icons",
   "license": "MIT",
   "author": "Ajentik",
-  "homepage": "https://github.com/ajentik/doo-iconik/tree/main/packages/astro",
+  "homepage": "https://github.com/yamyr/doo-iconik/tree/main/packages/astro",
   "bugs": {
-    "url": "https://github.com/ajentik/doo-iconik/issues"
+    "url": "https://github.com/yamyr/doo-iconik/issues"
   },
   "sideEffects": false,
   "type": "module",
@@ -19,7 +19,7 @@
   },
   "files": ["src", "LICENSE", "README.md"],
   "dependencies": {
-    "@ajentik/doo-iconik": "file:../core"
+    "@ajentik/doo-iconik": "^1.0.0"
   },
   "peerDependencies": {
     "astro": "^3.0.0 || ^4.0.0 || ^5.0.0 || ^6.0.0"
@@ -31,7 +31,7 @@
   "keywords": ["icons", "doodle", "hand-drawn", "astro", "doo-iconik"],
   "repository": {
     "type": "git",
-    "url": "https://github.com/ajentik/doo-iconik.git",
+    "url": "https://github.com/yamyr/doo-iconik.git",
     "directory": "packages/astro"
   }
 }

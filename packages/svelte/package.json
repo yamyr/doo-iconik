@@ -4,9 +4,9 @@
   "description": "Svelte component for doo-iconik hand-drawn icons",
   "license": "MIT",
   "author": "Ajentik",
-  "homepage": "https://github.com/ajentik/doo-iconik/tree/main/packages/svelte",
+  "homepage": "https://github.com/yamyr/doo-iconik/tree/main/packages/svelte",
   "bugs": {
-    "url": "https://github.com/ajentik/doo-iconik/issues"
+    "url": "https://github.com/yamyr/doo-iconik/issues"
   },
   "sideEffects": false,
   "type": "module",
@@ -52,7 +52,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/ajentik/doo-iconik.git",
+    "url": "https://github.com/yamyr/doo-iconik.git",
     "directory": "packages/svelte"
   }
 }

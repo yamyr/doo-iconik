@@ -23,7 +23,7 @@
   "keywords": ["icons", "doodle", "cli", "search", "doo-iconik"],
   "repository": {
     "type": "git",
-    "url": "https://github.com/ajentik/doo-iconik.git",
+    "url": "https://github.com/yamyr/doo-iconik.git",
     "directory": "packages/cli"
   }
 }

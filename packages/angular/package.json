@@ -4,9 +4,9 @@
   "description": "Angular component adapter for doo-iconik hand-drawn icons",
   "license": "MIT",
   "author": "Ajentik",
-  "homepage": "https://github.com/ajentik/doo-iconik/tree/main/packages/angular",
+  "homepage": "https://github.com/yamyr/doo-iconik/tree/main/packages/angular",
   "bugs": {
-    "url": "https://github.com/ajentik/doo-iconik/issues"
+    "url": "https://github.com/yamyr/doo-iconik/issues"
   },
   "sideEffects": false,
   "files": ["dist", "LICENSE", "README.md"],
@@ -14,7 +14,7 @@
     "build": "ng-packagr -p ng-package.json"
   },
   "dependencies": {
-    "@ajentik/doo-iconik": "file:../core"
+    "@ajentik/doo-iconik": "^1.0.0"
   },
   "peerDependencies": {
     "@angular/core": ">=16.0.0",
@@ -30,7 +30,7 @@
   "keywords": ["icons", "doodle", "hand-drawn", "angular", "ui", "doo-iconik"],
   "repository": {
     "type": "git",
-    "url": "https://github.com/ajentik/doo-iconik.git",
+    "url": "https://github.com/yamyr/doo-iconik.git",
     "directory": "packages/angular"
   }
 }

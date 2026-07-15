@@ -4,9 +4,9 @@
   "description": "Lit adapter (Web Component) for doo-iconik icons",
   "license": "MIT",
   "author": "Ajentik",
-  "homepage": "https://github.com/ajentik/doo-iconik/tree/main/packages/lit",
+  "homepage": "https://github.com/yamyr/doo-iconik/tree/main/packages/lit",
   "bugs": {
-    "url": "https://github.com/ajentik/doo-iconik/issues"
+    "url": "https://github.com/yamyr/doo-iconik/issues"
   },
   "sideEffects": [
     "./dist/DooIconik.*",
@@ -55,7 +55,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/ajentik/doo-iconik.git",
+    "url": "https://github.com/yamyr/doo-iconik.git",
     "directory": "packages/lit"
   }
 }
