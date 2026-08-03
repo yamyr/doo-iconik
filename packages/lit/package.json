@@ -38,7 +38,7 @@
     "lit": "^3.0.0"
   },
   "devDependencies": {
-    "jsdom": "^29.0.2",
+    "jsdom": "^30.0.1",
     "lit": "^3.0.0",
     "tsup": "^8.0.0",
     "typescript": "^5.0.0"
