@@ -36,7 +36,7 @@
     "preact": "^10.0.0"
   },
   "devDependencies": {
-    "@prefresh/vite": "^3.0.0",
+    "@prefresh/vite": "^4.0.1",
     "@testing-library/preact": "^3.2.4",
     "jsdom": "^29.0.2",
     "preact": "^10.29.1",
