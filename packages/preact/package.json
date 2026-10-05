@@ -39,7 +39,7 @@
     "@prefresh/vite": "^3.0.0",
     "@testing-library/preact": "^3.2.4",
     "jsdom": "^29.0.2",
-    "preact": "^10.29.1",
+    "preact": "^11.0.0",
     "tsup": "^8.0.0",
     "typescript": "^5.0.0"
   },
